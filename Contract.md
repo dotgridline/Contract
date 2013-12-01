@@ -9,8 +9,7 @@
   development work, a conference talk.
 * **‘You’** refers to the client or company on behalf of whom The Work is
   commissioned.
-* **‘I’** refers to me, Harry Roberts, working for You on behalf of CSS Wizardry
-  Ltd.
+* **‘I’** refers to me, Rafael miranda, working for You as a freelancer.
 
 ## About this document
 
@@ -44,9 +43,9 @@ Now, let’s do great work together!
 
 ## Involved parties
 
-**Harry Roberts, ‘CSS Wizardry’, ‘I’:**
+**Rafael Miranda, Freelancer, ‘I’:**
 
-[Address]
+Avenida General Olynto Pillar, 355 - Rio de Janeiro - Brazil
 
 **[Name], ‘The Client’, ‘You’:**
 
@@ -127,7 +126,7 @@ priced separately to the scope of The Work.
 ## Payment
 
 Being a small and, currently, a fledgling business, cash flow is very important
-to CSS Wizardry. As such, it is asked that You meet the payment terms outlined
+so I can work with quality in your product. As such, it is asked that You meet the payment terms outlined
 below.
 
 ### Deposit
@@ -167,7 +166,7 @@ and after The Work.
 The undersigned confirm that they have read, understood, and shall adhere to the
 terms laid out in this document:
 
-* **Harry Roberts:**
+* **Rafael Miranda:**
 * **Date:**
 
 * **You:**
